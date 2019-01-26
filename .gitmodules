@@ -4,3 +4,9 @@
 [submodule "random-keyboard-parts.pretty"]
 	path = random-keyboard-parts.pretty
 	url = https://github.com/ai03-2725/random-keyboard-parts.pretty
+[submodule "Housings_QFP.pretty"]
+	path = Housings_QFP.pretty
+	url = https://github.com/KiCad/Housings_QFP.pretty
+[submodule "Kicad_Libraries"]
+	path = Kicad_Libraries
+	url = https://github.com/ldoiron17/Kicad_Libraries
