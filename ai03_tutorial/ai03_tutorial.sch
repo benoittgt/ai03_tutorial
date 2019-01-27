@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:ai03_tutorial-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -601,20 +602,28 @@ U 1 1 5C50D313
 P 8125 2900
 F 0 "USB1" V 8662 2867 60  0000 C CNN
 F 1 "Molex-0548190589" V 8556 2867 60  0000 C CNN
-F 2 "random-keyboard-parts:Molex-0548190589" H 8125 2900 60  0001 C CNN
+F 2 "Connector_USB:USB_Micro-B_Molex-105017-0001" H 8125 2900 60  0001 C CNN
 F 3 "" H 8125 2900 60  0001 C CNN
 	1    8125 2900
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:C_Small C?
+L Device:C_Small C3
 U 1 1 5C669A95
 P 4250 2250
-F 0 "C?" V 4479 2250 50  0000 C CNN
+F 0 "C3" V 4479 2250 50  0000 C CNN
 F 1 "22pF" V 4388 2250 50  0000 C CNN
 F 2 "Capacitors_SMD:C_0805" H 4250 2250 50  0001 C CNN
 F 3 "~" H 4250 2250 50  0001 C CNN
 	1    4250 2250
 	0    -1   -1   0   
 $EndComp
+Text GLabel 6900 3850 2    50   Input ~ 0
+COL1
+Text GLabel 6900 3950 2    50   Input ~ 0
+COL0
+Text GLabel 6900 3650 2    50   Input ~ 0
+ROW0
+Text GLabel 6900 2450 2    50   Input ~ 0
+ROW1
 $EndSCHEMATC
