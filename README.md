@@ -20,7 +20,7 @@ Thanks ai03 and Ruiqi Mao for this very good guide (baby steps, shortcuts, many 
 
 ### PCB from Kicad
 
-![kicad_pcb](kicad_pcb.png)
+![kicad_pcb](kicad_pcb_new.png)
 
 ### Schema from Kicad
 
