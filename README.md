@@ -26,7 +26,7 @@ Thanks ai03 and Ruiqi Mao for this very good guide (baby steps, shortcuts, many 
 
 ![kicad_schema](kicad_schema.png)
 
-### Gerber file front and back from JLPCB
+### Gerber file front and back rendered on JLPCB
 
 ![gerber_from_JLPCB_front](gerber_from_JLPCB_front.png)
 
